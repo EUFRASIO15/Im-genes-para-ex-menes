@@ -1,0 +1,5 @@
+{
+  "name": "DILSE Sign Language Search",
+  "description": "An application to search for a word and automatically display its corresponding sign language image from the DILSE dictionary (fundacioncnse-dilse.org).",
+  "requestFramePermissions": []
+}
